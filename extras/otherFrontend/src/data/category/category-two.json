@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1",
+    "image": "/assets/img/collections/disposable-neon.png",
+    "subtitle": "64 Products",
+    "title": "Disposable Vapes",
+    "link": "/shop-grid-standard"
+  },
+  {
+    "id": "2",
+    "image": "/assets/img/collections/e-liquid.png",
+    "subtitle": "24 Products",
+    "title": "E-Liquids",
+    "link": "/shop-grid-standard"
+  },
+  {
+    "id": "3",
+    "image": "/assets/img/collections/bugatti-neon.png",
+    "subtitle": "20 Products",
+    "title": "Bugatti",
+    "link": "/shop-grid-standard"
+  },
+  {
+    "id": "4",
+    "image": "/assets/img/collections/flum-neon.png",
+    "subtitle": "28 Products",
+    "title": "Flum",
+    "link": "/shop-grid-standard"
+  },
+  {
+    "id": "5",
+    "image": "/assets/img/collections/disposable-neon.png",
+    "subtitle": "7 Products",
+    "title": "Vaporizers",
+    "link": "/shop-grid-standard"
+  },
+  {
+    "id": "6",
+    "image": "/assets/img/collections/lost-mary-neon.png",
+    "subtitle": "24 Products",
+    "title": "Lost Mary",
+    "link": "/shop-grid-standard"
+  },
+  {
+    "id": "7",
+    "image": "/assets/img/collections/pod-juice-neon.png",
+    "subtitle": "12 Products",
+    "title": "Pod Juice",
+    "link": "/shop-grid-standard"
+  },
+  {
+    "id": "8",
+    "image": "/assets/img/collections/rolling-papers.png",
+    "subtitle": "10 Products",
+    "title": "Rolling Papers",
+    "link": "/shop-grid-standard"
+  },
+  {
+    "id": "9",
+    "image": "/assets/img/collections/glass.png",
+    "subtitle": "12 Products",
+    "title": "Glass",
+    "link": "/shop-grid-standard"
+  },
+  {
+    "id": "10",
+    "image": "/assets/img/collections/e-liquid.png",
+    "subtitle": "20 Products",
+    "title": "Accessories",
+    "link": "/shop-grid-standard"
+  }
+]

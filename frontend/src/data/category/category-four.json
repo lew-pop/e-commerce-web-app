@@ -1,0 +1,65 @@
+[
+  {
+    "id": "1",
+    "image": "/assets/img/product/disposables-cloud.png",
+    "subtitle": "287 Products",
+    "title": "Disposables",
+    "link": "/shop-filtered-grid/disposable"
+  },
+  {
+    "id": "2",
+    "image": "/assets/img/product/e-liquids.png",
+    "subtitle": "65 Products",
+    "title": "E-Liquids",
+    "link": "/shop-filtered-grid/primeBar"
+  },
+  {
+    "id": "106",
+    "image": "/assets/img/product/salt-nic.png",
+    "subtitle": "11 Products",
+    "title": "Salt Nic",
+    "link": "/shop-filtered-grid/salt-nic"
+  },
+  {
+    "id": "4",
+    "image": "/assets/img/product/lost-mary.png",
+    "subtitle": "62 Products",
+    "title": "Lost Mary",
+    "link": "/shop-filtered-grid/lostmary"
+  },
+  {
+    "id": "5",
+    "image": "/assets/img/product/flum.png",
+    "subtitle": "67 Products",
+    "title": "Flum",
+    "link": "/shop-filtered-grid/flum"
+  },
+  {
+    "id": "6",
+    "image": "/assets/img/product/bugatti-1.png",
+    "subtitle": "9 Products",
+    "title": "Bugatti",
+    "link": "/shop-brand-grid/bugatti"
+  },
+  {
+    "id": "7",
+    "image": "/assets/img/product/rolling-papers-cloud.png",
+    "subtitle": "5 Products",
+    "title": "Rolling Papers",
+    "link": "/shop-filtered-grid/rolling-papers"
+  },
+  {
+    "id": "8",
+    "image": "/assets/img/product/glass.png",
+    "subtitle": "22 Products",
+    "title": "Glass Products",
+    "link": "/shop-filtered-grid/glass"
+  },
+  {
+    "id": "9",
+    "image": "/assets/img/product/vaporizers.png",
+    "subtitle": "6 Products",
+    "title": "Vaporizers",
+    "link": "/shop-filtered-grid/vaporizers"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "id": "1",
+    "image": "/assets/img/product/disposables-cloud.png",
+    "subtitle": "2 Products",
+    "title": "Disposables",
+    "link": "/shop-grid-standard"
+  },
+  {
+    "id": "2",
+    "image": "/assets/img/product/e-liquids.png",
+    "subtitle": "3 Products",
+    "title": "E-Liquids",
+    "link": "/shop-grid-standard"
+  },
+  {
+    "id": "3",
+    "image": "/assets/img/product/salt-nic.png",
+    "subtitle": "3 Products",
+    "title": "E-Liquids",
+    "link": "/shop-grid-standard"
+  },
+  {
+    "id": "4",
+    "image": "/assets/img/product/lost-mary.png",
+    "subtitle": "6 Products",
+    "title": "Lost Mary",
+    "link": "/shop-grid-standard/os5000"
+  },
+  {
+    "id": "5",
+    "image": "/assets/img/product/flum.png",
+    "subtitle": "5 Products",
+    "title": "Flum",
+    "link": "/shop-grid-standard/pebble"
+  },
+  {
+    "id": "6",
+    "image": "/assets/img/product/bugatti-1.png",
+    "subtitle": "3 Products",
+    "title": "Best Products",
+    "link": "/shop-grid-standard/bugatti"
+  },
+  {
+    "id": "7",
+    "image": "/assets/img/product/rolling-papers-cloud.png",
+    "subtitle": "5 Products",
+    "title": "Rolling Papers",
+    "link": "/shop-grid-standard"
+  },
+  {
+    "id": "8",
+    "image": "/assets/img/product/glass.png",
+    "subtitle": "3 Products",
+    "title": "Glass Products",
+    "link": "/shop-grid-standard"
+  },
+  {
+    "id": "9",
+    "image": "/assets/img/product/vaporizers.png",
+    "subtitle": "3 Products",
+    "title": "Vaporizers",
+    "link": "/shop-grid-standard"
+  }
+]
