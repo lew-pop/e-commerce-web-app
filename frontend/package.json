@@ -1,6 +1,6 @@
 {
-  "name": "flone-react",
-  "version": "2.0.0",
+  "name": "the-cage-online",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.6",
